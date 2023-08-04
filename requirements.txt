@@ -1,0 +1,12 @@
+PIL
+ultralytics
+streamlit
+skimage
+torchvision
+matplotlib
+pathlib
+opencv-python
+numpy
+pandas
+pafy
+sys
